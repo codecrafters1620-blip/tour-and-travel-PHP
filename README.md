@@ -16,7 +16,7 @@ Demo site
 
 Author
 -------
-<a href="https://www.themesine.com" target="_blank">ThemeSINE</a>
+<a href="https://www.themesine.com" target="_blank">Suraj Rathod</a>
 
 Other templates
 ---------------
